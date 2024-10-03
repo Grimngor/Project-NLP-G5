@@ -1,0 +1,9 @@
+Classification Report: Naive Bayes (BoW)
+              precision    recall  f1-score   support
+
+           0       0.91      0.93      0.92      3529
+           1       0.92      0.91      0.92      3302
+
+    accuracy                           0.92      6831
+   macro avg       0.92      0.92      0.92      6831
+weighted avg       0.92      0.92      0.92      6831

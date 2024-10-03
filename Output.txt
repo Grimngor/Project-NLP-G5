@@ -1,0 +1,76 @@
+(Clean, Tokenized, Lemmatized, No StopWords removal)
+BAG OF WORDS
+Accuracy Score Log Regression: 0.9259
+Accuracy Score SVM: 0.9264
+Accuracy Score Naive Bayes: 0.9173
+Accuracy Score XGB Classifier: 0.9046
+
+TF-IDF
+Accuracy Score Log Regression: 0.9258
+Accuracy Score SVM: 0.9264
+Accuracy Score Naive Bayes: 0.9107
+Accuracy Score XGB Classifier: 0.9041
+
+(No Clean, No Tokenized, No Lemmatized, No StopWords removal)
+BAG OF WORDS
+Accuracy Score Log Regression: 0.9268
+Accuracy Score SVM: 0.9250
+Accuracy Score Naive Bayes: 0.9179
+Accuracy Score XGB Classifier: 0.9084
+
+TF-IDF  
+Accuracy Score Log Regression: 0.9248
+Accuracy Score SVM: 0.9256
+Accuracy Score Naive Bayes: 0.9091
+Accuracy Score XGB Classifier: 0.9070
+
+(Clean, Tokenized, No Lemmatized, No StopWords removal)
+BAG OF WORDS 
+Accuracy Score Log Regression: 0.9220
+Accuracy Score SVM: 0.9209
+Accuracy Score Naive Bayes: 0.9144
+Accuracy Score XGB Classifier: 0.8999
+
+TF-IDF
+Accuracy Score Log Regression: 0.9209
+Accuracy Score SVM: 0.9209
+Accuracy Score Naive Bayes: 0.9073
+Accuracy Score XGB Classifier: 0.9003
+
+(Clean, No Tokenized, Lemmatized, StopWords removal)
+BAG OF WORDS
+Accuracy Score Log Regression: 0.9091
+Accuracy Score SVM: 0.9084
+Accuracy Score Naive Bayes: 0.8994
+Accuracy Score XGB Classifier: 0.8766
+
+TF-IDF
+Accuracy Score Log Regression: 0.9041
+Accuracy Score SVM: 0.9073
+Accuracy Score Naive Bayes: 0.8931
+Accuracy Score XGB Classifier: 0.8767
+
+(Clean, Tokenized, Lemmatized, StopWords removal)
+BAG OF WORDS
+Accuracy Score Log Regression: 0.9091
+Accuracy Score SVM: 0.9084
+Accuracy Score Naive Bayes: 0.8994
+Accuracy Score XGB Classifier: 0.8766
+TF-IDF
+Accuracy Score Log Regression: 0.9041
+Accuracy Score SVM: 0.9073
+Accuracy Score Naive Bayes: 0.8931
+Accuracy Score XGB Classifier: 0.8767
+
+(No Clean, Tokenized, No Lemmatized, No StopWords removal)
+BAG OF WORDS
+Accuracy Score Log Regression: 0.9268
+Accuracy Score SVM: 0.9250
+Accuracy Score Naive Bayes: 0.9179
+Accuracy Score XGB Classifier: 0.9084
+
+TF-IDF
+Accuracy Score Log Regression: 0.9248
+Accuracy Score SVM: 0.9256
+Accuracy Score Naive Bayes: 0.9091
+Accuracy Score XGB Classifier: 0.9070
